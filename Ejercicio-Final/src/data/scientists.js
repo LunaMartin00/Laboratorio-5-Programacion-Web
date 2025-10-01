@@ -10,7 +10,7 @@ export const scientists = [
   {
     id: 2,
     name: "Katsuko Saruhashi",
-    image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Katsuko_Saruhashi.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/en/0/08/Katsuko_Saruhashi.jpg",
     profesion: "geoquímica",
     premios: "2 (Premio Miyake de geoquímica, Premio Tanaka)",
     descubrio: "un método para medir el dióxido de carbono en el agua de mar"

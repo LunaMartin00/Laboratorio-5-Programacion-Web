@@ -1,3 +1,6 @@
+PREGUNTA --¿Qué significa className en React? ¿las props tienen un limite? ¿Quién define las
+props?
+
 --RESPUESTA--
 En React, className se utiliza en lugar de class para asignar estilos CSS, ya que la palabra class 
 está reservada en JavaScript. Funciona igual que en HTML, solo que con ese nombre especial.

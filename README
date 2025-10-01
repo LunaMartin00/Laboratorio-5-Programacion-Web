@@ -1,0 +1,11 @@
+--RESPUESTA--
+En React, className se utiliza en lugar de class para asignar estilos CSS, ya que la palabra class 
+está reservada en JavaScript. Funciona igual que en HTML, solo que con ese nombre especial.
+
+Las props no tienen un límite fijo, puedes pasar tantas como necesites a un componente. Sin embargo, 
+lo recomendable es no abusar, porque demasiadas props hacen que el código sea difícil de leer; 
+en esos casos conviene agrupar los datos en un objeto o dividir el componente en partes más pequeñas.
+
+Las props las define el propio desarrollador: el componente indica qué props espera recibir y quien 
+lo usa es el que le envía los valores. En pocas palabras, el creador del componente decide cómo se llaman 
+y qué representan, y el que las utiliza les da contenido.
